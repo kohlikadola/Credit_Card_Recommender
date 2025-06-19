@@ -4,6 +4,8 @@ This project is a semantic and heuristic-based credit card recommendation system
 The tool supports both a Command Line Interface (CLI) and a Frontend User Interface (UI) built using Streamlit.
 
 ---
+## 🎥Demo
+![Demo](./output.gif)
 
 ## 🚀 Features
 
@@ -28,7 +30,7 @@ For CLI
 python3 app_cli.py
 For GUI
 streamlit run end.py
-##🎥Demo
-![Demo](./output.gif)
+---
+
 
 
