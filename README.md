@@ -29,7 +29,6 @@ python3 app_cli.py
 For GUI
 streamlit run end.py
 ##🎥Demo
-<p align="center">
-  <img src=output.gif" width="600" alt="App Demo">
-</p>
+![Demo](./output.gif)
+
 
