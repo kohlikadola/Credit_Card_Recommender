@@ -28,3 +28,8 @@ For CLI
 python3 app_cli.py
 For GUI
 streamlit run end.py
+##🎥Demo
+<p align="center">
+  <img src="media/demo.gif" width="600" alt="App Demo">
+</p>
+
